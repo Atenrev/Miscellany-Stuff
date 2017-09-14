@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class hundirLaFlota 
+public class Battleship 
 {
 	private static Scanner sc = new Scanner (System.in);
 	
